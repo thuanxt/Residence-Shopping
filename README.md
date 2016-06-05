@@ -1,2 +1,2 @@
-# Residence-Shopping
-Residence Shopping
+# Residential-Shopping
+Residential Shopping
